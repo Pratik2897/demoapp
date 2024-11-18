@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: addressbook-container
-          image: pratik2897/demoapp:0.1
+          image: pratik2897/demoapp:2.0
           ports:
             - containerPort: 8080
